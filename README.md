@@ -24,3 +24,7 @@ The ASCII art mapping can be customized by modifying the _asciiTable array in Bi
 
 Enjoy creating unique ASCII representations of your favorite images with this simple yet powerful ASCII Art Generator!
  
+![image](https://github.com/Kirikulus/ASCIIart/assets/64729961/7ad14dff-6075-4611-b4b9-f951742df49c)
+![image](https://github.com/Kirikulus/ASCIIart/assets/64729961/2f246493-b164-47f8-9c02-047be6db0142)
+![image](https://github.com/Kirikulus/ASCIIart/assets/64729961/c8e72a28-a90e-421d-8527-c1d7bb3dcbdc)
+
